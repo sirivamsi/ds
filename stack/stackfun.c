@@ -1,3 +1,4 @@
+//b171113
 #include<stdio.h>
 int push(int top,int n,int a[20])
 {
